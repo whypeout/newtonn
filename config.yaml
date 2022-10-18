@@ -1,4 +1,4 @@
-baseURL: 'http://whypeout.github.io/newtonn/'
+baseURL: 'https://why.magggis.my.id/'
 languageCode: en-us
 title: Hello, Call Me Toni. Thats it, Now SCROL!!!
 theme:  hugo-fresh
@@ -14,7 +14,7 @@ params:
   openGraph: true
   description:
   navbarlogo:
-    image: /logos/fresh.svg
+    image: logos/fresh.svg
     link: /
   font:
     name: "Open Sans"
@@ -24,7 +24,7 @@ params:
     subtitle: Hello I'm Toni. Now Scroll Down
     buttontext: Get started
     buttonlink: #
-    image: /illustrations/worker.svg
+    image: illustrations/worker.svg
     clientlogos:
     - systek
     - tribe
@@ -137,7 +137,7 @@ params:
   section5: true
   footer:
     # Logo (from /images/logos/___)
-    logo: /fresh-white-alt.svg
+    logo: fresh-white-alt.svg
     # Social Media Title
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
