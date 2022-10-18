@@ -52,6 +52,8 @@ jobs:
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - name: Create CNAME file
+        run: echo 'why.magggis.my.id' > public/CNAME
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
