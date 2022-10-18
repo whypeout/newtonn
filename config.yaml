@@ -1,7 +1,7 @@
 baseURL: 'https://whypeout.github.io/newtonn/'
 languageCode: en-us
 title: Hello, Call Me Toni. Thats it, Now SCROL!!!
-theme:  hugo-fresh
+theme: hugo-fresh
 disableKinds:
 - taxonomy
 - taxonomyTerm
