@@ -10,12 +10,12 @@ Hello Pages!!!
 
 ![images](peterpan.jpeg "it seems its broken?")
 
-![abs-img](/newtonn/content/posts/peterpan.jpeg "nothing to see here")
+![failed](/whypeout/newtonn/blob/main/content/posts/mikrotik/peterpan.jpeg "nothing to see here")
 
 ![full-url](https://raw.githubusercontent.com/whypeout/newtonn/main/content/posts/mikrotik/peterpan.jpeg "avatar legends of kopol")
 
 ![relative-path](../mikrotik/peterpan.jpeg "it-should-be-here-right")
 
-![sub-dir-path](https://whypeout.github.io/newtonn/posts/mikrotik/readme/peterpan.jpeg "cocondor")
+![sub-dir-path](https://whypeout.github.io/newtonn/posts/mikrotik/peterpan.jpeg "cocondor")
 
 ![subpathon](./peterpan.jpeg "normally")
