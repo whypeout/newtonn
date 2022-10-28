@@ -8,14 +8,14 @@ categories: ["is", "this", "it"]
 
 Hello Pages!!!
 
-![images](current-path.jpg "it seems its broken?")
+![images](peterpan.jpeg "it seems its broken?")
 
-![abs-img](/absolute/path.jpg "nothing to see here")
+![abs-img](/newtonn/content/posts/peterpan.jpeg "nothing to see here")
 
-![full-url](https://instagram.com/users/avatar.img "avatar legends of kopol")
+![full-url](https://raw.githubusercontent.com/whypeout/newtonn/main/content/posts/mikrotik/peterpan.jpeg "avatar legends of kopol")
 
-![relative-path](../assets/where-it-should-be.jpg "it-should-be-here-right")
+![relative-path](../mikrotik/peterpan.jpeg "it-should-be-here-right")
 
-![sub-dir-path](nomandor/comandor.jpg "cocondor")
+![sub-dir-path](https://whypeout.github.io/newtonn/posts/mikrotik/readme/peterpan.jpeg "cocondor")
 
-![subpathon](./is-this/path-ok/right.png "normally")
+![subpathon](./peterpan.jpeg "normally")
